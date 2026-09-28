@@ -1,0 +1,240 @@
+{
+  "global_stats": {
+    "total_views": 1442,
+    "total_visitors": 515,
+    "total_api_requests": 5119,
+    "total_ratings_count": 43,
+    "createdAt": 1758500000000
+  },
+  "unique_visitors": {
+    "127.0.0.1_2026-09-28": {
+      "ip": "127.0.0.1",
+      "userAgent": "test-agent",
+      "date": "2026-09-28",
+      "createdAt": 1790589791352
+    },
+    "2401:4900:3a0a:d5b4:811d:e2f1:6c8b:bd16_2026-09-28": {
+      "ip": "2401:4900:3a0a:d5b4:811d:e2f1:6c8b:bd16",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36",
+      "date": "2026-09-28",
+      "createdAt": 1790589814175
+    },
+    "2401:4900:3bec:3b0e:8744:59c4:f3b0:d215_2026-09-28": {
+      "ip": "2401:4900:3bec:3b0e:8744:59c4:f3b0:d215",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36",
+      "date": "2026-09-28",
+      "createdAt": 1790591685567
+    }
+  },
+  "endpoint_calls": {
+    "/api/rgb/anime": {
+      "calls": 1240,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1759000000000
+    },
+    "/api/pompom/stream": {
+      "calls": 980,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1759000000000
+    },
+    "/api/movie": {
+      "calls": 810,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1759000000000
+    },
+    "/api/telegram/profile": {
+      "calls": 530,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1759000000000
+    },
+    "/api/nsfw/waifu": {
+      "calls": 410,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1759000000000
+    },
+    "/api/test-endpoint": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790589791353
+    },
+    "/api/waifu": {
+      "calls": 180,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790593464620
+    },
+    "/api/gitclone": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790590640111
+    },
+    "/api/soundcloud": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790590838378
+    },
+    "/api/ytsearch": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790591002800
+    },
+    "/api/nsfw/cuckold": {
+      "calls": 4,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790591444448
+    },
+    "/api/nsfw/pussy": {
+      "calls": 2,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790592445657
+    },
+    "/api/wallpaper/programming": {
+      "calls": 7,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790592457584
+    },
+    "/api/pinterest": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790591554915
+    },
+    "/api/claude-haiku": {
+      "calls": 2,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790591799644
+    },
+    "/api/claude-session": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790591806814
+    },
+    "/api/gptlogic": {
+      "calls": 5,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790593392337
+    },
+    "/api/gemini": {
+      "calls": 1,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790591823527
+    },
+    "/api/cosplay": {
+      "calls": 22,
+      "lastMethod": "GET",
+      "lastStatus": 200,
+      "lastCalledAt": 1790592516797
+    }
+  },
+  "ratings": {
+    "/api/rgb/anime": {
+      "endpoint": "/api/rgb/anime",
+      "totalScore": 78,
+      "count": 16,
+      "average": 4.9,
+      "lastUpdated": 1759000000000
+    },
+    "/api/pompom/stream": {
+      "endpoint": "/api/pompom/stream",
+      "totalScore": 57,
+      "count": 12,
+      "average": 4.8,
+      "lastUpdated": 1759000000000
+    },
+    "/api/movie": {
+      "endpoint": "/api/movie",
+      "totalScore": 48,
+      "count": 10,
+      "average": 4.8,
+      "lastUpdated": 1759000000000
+    },
+    "Youtubedl": {
+      "endpoint": "Youtubedl",
+      "totalScore": 5,
+      "count": 1,
+      "average": 5,
+      "lastUpdated": 1790590634385
+    },
+    "YtVideo": {
+      "endpoint": "YtVideo",
+      "totalScore": 5,
+      "count": 1,
+      "average": 5,
+      "lastUpdated": 1790590636306
+    },
+    "GitClone": {
+      "endpoint": "GitClone",
+      "totalScore": 5,
+      "count": 1,
+      "average": 5,
+      "lastUpdated": 1790590637987
+    },
+    "Cuckold": {
+      "endpoint": "Cuckold",
+      "totalScore": 5,
+      "count": 1,
+      "average": 5,
+      "lastUpdated": 1790591401385
+    },
+    "Gptlogic": {
+      "endpoint": "Gptlogic",
+      "totalScore": 4,
+      "count": 1,
+      "average": 4,
+      "lastUpdated": 1790591853145
+    }
+  },
+  "rating_votes": {
+    "a5ec96571f4b724332bab5e7:Youtubedl": {
+      "voterKey": "a5ec96571f4b724332bab5e7:Youtubedl",
+      "endpoint": "Youtubedl",
+      "stars": 5,
+      "createdAt": 1790590630934,
+      "updatedAt": 1790590634385
+    },
+    "a5ec96571f4b724332bab5e7:YtVideo": {
+      "voterKey": "a5ec96571f4b724332bab5e7:YtVideo",
+      "endpoint": "YtVideo",
+      "stars": 5,
+      "createdAt": 1790590636306,
+      "updatedAt": 1790590636306
+    },
+    "a5ec96571f4b724332bab5e7:GitClone": {
+      "voterKey": "a5ec96571f4b724332bab5e7:GitClone",
+      "endpoint": "GitClone",
+      "stars": 5,
+      "createdAt": 1790590637987,
+      "updatedAt": 1790590637987
+    },
+    "a5ec96571f4b724332bab5e7:Cuckold": {
+      "voterKey": "a5ec96571f4b724332bab5e7:Cuckold",
+      "endpoint": "Cuckold",
+      "stars": 5,
+      "createdAt": 1790591401385,
+      "updatedAt": 1790591401385
+    },
+    "a5ec96571f4b724332bab5e7:Gptlogic": {
+      "voterKey": "a5ec96571f4b724332bab5e7:Gptlogic",
+      "endpoint": "Gptlogic",
+      "stars": 4,
+      "createdAt": 1790591848108,
+      "updatedAt": 1790591853145
+    }
+  }
+}

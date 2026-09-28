@@ -1,0 +1,269 @@
+{
+  "profiles": {
+    "test-id": {
+      "id": "test-id",
+      "name": "Guest T-ID",
+      "avatar": "/favicon-dp.jpg",
+      "verified": true,
+      "createdAt": 1790589797533,
+      "updatedAt": 1790589797533,
+      "ipHash": "34012a50d2fea6a17671c52a",
+      "userAgent": "test-ua",
+      "lastSeenAt": 1790589797534
+    },
+    "8643dac5-b625-4dbb-9074-3c2a3a46d65f": {
+      "id": "8643dac5-b625-4dbb-9074-3c2a3a46d65f",
+      "name": "Guest D65F",
+      "avatar": "/favicon-dp.jpg",
+      "verified": true,
+      "createdAt": 1790589853377,
+      "updatedAt": 1790589875262,
+      "ipHash": "4e77689fd1e18d65d3119368",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36",
+      "lastSeenAt": 1790591493783
+    },
+    "tg_8440279273": {
+      "id": "tg_8440279273",
+      "name": "˹Yᴜᴋɪ !!",
+      "avatar": "/api/telegram/verified-avatar?user_id=8440279273",
+      "verified": true,
+      "createdAt": 1790591744807,
+      "updatedAt": 1790592568314,
+      "lastSeenAt": 1790593434999
+    },
+    "tg_1790593197290": {
+      "id": "tg_1790593197290",
+      "name": "Telegram User",
+      "avatar": "/api/telegram/verified-avatar?user_id=1790593197290",
+      "verified": true,
+      "createdAt": 1790593211150,
+      "updatedAt": 1790593214378,
+      "lastSeenAt": 1790593336123
+    },
+    "tg_7564180164": {
+      "id": "tg_7564180164",
+      "name": "Telegram User",
+      "avatar": "/api/telegram/verified-avatar?user_id=7564180164",
+      "verified": true,
+      "createdAt": 1790593278937,
+      "updatedAt": 1790593278937
+    },
+    "a0e2962c-7911-40df-bb25-5d8bac49bcd2": {
+      "id": "a0e2962c-7911-40df-bb25-5d8bac49bcd2",
+      "name": "Guest BCD2",
+      "avatar": "/favicon-dp.jpg",
+      "verified": true,
+      "createdAt": 1790593339789,
+      "updatedAt": 1790593339789,
+      "ipHash": "34012a50d2fea6a17671c52a",
+      "userAgent": "curl/7.88.1",
+      "lastSeenAt": 1790593339789
+    },
+    "169f39dd-7ea7-4a57-8fab-f457b7a7b29f": {
+      "id": "169f39dd-7ea7-4a57-8fab-f457b7a7b29f",
+      "name": "Guest B29F",
+      "avatar": "/favicon-dp.jpg",
+      "verified": true,
+      "createdAt": 1790593353938,
+      "updatedAt": 1790593353938,
+      "ipHash": "34012a50d2fea6a17671c52a",
+      "userAgent": "curl/7.88.1",
+      "lastSeenAt": 1790593353938
+    },
+    "6c8b4560-d330-4d58-8361-5ec723544b02": {
+      "id": "6c8b4560-d330-4d58-8361-5ec723544b02",
+      "name": "Guest 4B02",
+      "avatar": "/favicon-dp.jpg",
+      "verified": true,
+      "createdAt": 1790593370728,
+      "updatedAt": 1790593370728,
+      "ipHash": "34012a50d2fea6a17671c52a",
+      "userAgent": "curl/7.88.1",
+      "lastSeenAt": 1790593370728
+    },
+    "bbbe722c-130f-4422-8eb5-04f204fbf045": {
+      "id": "bbbe722c-130f-4422-8eb5-04f204fbf045",
+      "name": "Guest F045",
+      "avatar": "/favicon-dp.jpg",
+      "verified": true,
+      "createdAt": 1790593382337,
+      "updatedAt": 1790593382337,
+      "ipHash": "34012a50d2fea6a17671c52a",
+      "userAgent": "curl/7.88.1",
+      "lastSeenAt": 1790593382337
+    }
+  },
+  "verifications": {},
+  "messages": [
+    {
+      "id": "msg-welcome",
+      "profileId": "admin",
+      "author": {
+        "name": "Kᴀᴀʟɪx Admin",
+        "avatar": "/favicon-dp.jpg",
+        "username": "@kaalix"
+      },
+      "text": "Welcome to Kᴀᴀʟɪx Free APIs Community! Explore endpoints, share feedback, and connect with developers.",
+      "image": "",
+      "replyToId": null,
+      "reactions": {
+        "🔥": 1
+      },
+      "reactionUsers": {
+        "🔥": [
+          "8643dac5-b625-4dbb-9074-3c2a3a46d65f"
+        ]
+      },
+      "createdAt": 1790586197533
+    },
+    {
+      "id": "1a4ccc9e-5053-41d0-994d-8304b799f9af",
+      "profileId": "test-id",
+      "author": {
+        "name": "Guest T-ID",
+        "avatar": "/favicon-dp.jpg"
+      },
+      "text": "Hello community!",
+      "image": "",
+      "replyToId": null,
+      "reactions": {
+        "😂": 1
+      },
+      "reactionUsers": {
+        "😂": [
+          "tg_8440279273"
+        ]
+      },
+      "createdAt": 1790589797535
+    },
+    {
+      "id": "140fa871-7ae1-4b98-9b98-4f841a0165dd",
+      "profileId": "8643dac5-b625-4dbb-9074-3c2a3a46d65f",
+      "author": {
+        "name": "Guest D65F",
+        "avatar": "/favicon-dp.jpg"
+      },
+      "text": "Hi",
+      "image": "",
+      "replyToId": null,
+      "reactions": {
+        "😮": 1,
+        "🔥": 1,
+        "😂": 2,
+        "❤️": 1,
+        "👍": 1
+      },
+      "reactionUsers": {
+        "😮": [
+          "8643dac5-b625-4dbb-9074-3c2a3a46d65f"
+        ],
+        "🔥": [
+          "8643dac5-b625-4dbb-9074-3c2a3a46d65f"
+        ],
+        "😂": [
+          "8643dac5-b625-4dbb-9074-3c2a3a46d65f",
+          "tg_8440279273"
+        ],
+        "❤️": [
+          "8643dac5-b625-4dbb-9074-3c2a3a46d65f"
+        ],
+        "👍": [
+          "8643dac5-b625-4dbb-9074-3c2a3a46d65f"
+        ]
+      },
+      "createdAt": 1790589886316
+    },
+    {
+      "id": "891a20f1-52e9-4087-a409-d3704c10ce8a",
+      "profileId": "8643dac5-b625-4dbb-9074-3c2a3a46d65f",
+      "author": {
+        "name": "Guest D65F",
+        "avatar": "/favicon-dp.jpg"
+      },
+      "text": "Haat madarchod",
+      "image": "",
+      "replyToId": "140fa871-7ae1-4b98-9b98-4f841a0165dd",
+      "reactions": {
+        "❤️": 1,
+        "🔥": 1
+      },
+      "reactionUsers": {
+        "❤️": [
+          "tg_8440279273"
+        ],
+        "🔥": [
+          "tg_8440279273"
+        ]
+      },
+      "createdAt": 1790590571326
+    },
+    {
+      "id": "4f445779-b094-4dc2-a0ca-d02f3d46945f",
+      "profileId": "tg_8440279273",
+      "author": {
+        "name": "˹Yᴜᴋɪ !!",
+        "avatar": "/api/telegram/verified-avatar?user_id=8440279273"
+      },
+      "text": "Hi",
+      "image": "",
+      "replyToId": null,
+      "reactions": {},
+      "reactionUsers": {},
+      "createdAt": 1790591750292
+    },
+    {
+      "id": "790814fc-74d0-46ff-bbdb-146336d5205b",
+      "profileId": "tg_8440279273",
+      "author": {
+        "name": "˹Yᴜᴋɪ !!",
+        "avatar": "/api/telegram/verified-avatar?user_id=8440279273",
+        "telegramId": "8440279273"
+      },
+      "text": "Hii Kaalix AI, tum kya kya kar sakte ho?",
+      "image": "",
+      "replyToId": "msg-ai-bot-intro",
+      "createdAt": 1790593349247
+    },
+    {
+      "id": "35e2dc29-aa9d-496d-a80a-caba037ea665",
+      "profileId": "tg_8440279273",
+      "author": {
+        "name": "˹Yᴜᴋɪ !!",
+        "avatar": "/api/telegram/verified-avatar?user_id=8440279273",
+        "telegramId": "8440279273"
+      },
+      "text": "Hii Kaalix AI, tum kya kya kar sakte ho?",
+      "image": "",
+      "replyToId": "msg-ai-bot-intro",
+      "createdAt": 1790593367711
+    },
+    {
+      "id": "6fb728cf-bf07-4935-a78e-7ef097774637",
+      "profileId": "tg_8440279273",
+      "author": {
+        "name": "˹Yᴜᴋɪ !!",
+        "avatar": "/api/telegram/verified-avatar?user_id=8440279273",
+        "telegramId": "8440279273"
+      },
+      "text": "Kaalix AI, how many APIs are on this website?",
+      "image": "",
+      "replyToId": "msg-ai-bot-intro",
+      "createdAt": 1790593435000
+    },
+    {
+      "id": "da118e42-626d-40d6-92f0-814214ea6665",
+      "profileId": "kaalix_ai_bot",
+      "author": {
+        "name": "Kᴀᴀʟɪx AI ✦",
+        "avatar": "/favicon-dp.jpg",
+        "username": "@kaalix_ai",
+        "telegramId": "BOT",
+        "isBot": true
+      },
+      "text": "As of now, the Kaalix Free APIs portal offers **over 50 publicly available APIs** across categories like AI, data, utilities, and more. We’re continuously adding new endpoints, so the count keeps growing! If you need a specific type of API, just let me know—I’ll point you to the right one.",
+      "image": "",
+      "replyToId": "6fb728cf-bf07-4935-a78e-7ef097774637",
+      "createdAt": 1790593439610
+    }
+  ]
+}

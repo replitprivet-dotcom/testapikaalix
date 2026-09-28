@@ -1,0 +1,155 @@
+{
+  "d71f7afc4d4a4608": {
+    "token": "d71f7afc4d4a4608",
+    "code": "DF2V7Z",
+    "status": "pending",
+    "channelsJoined": {
+      "@TheFelixModz": false,
+      "@autolikegc": false,
+      "@FelixOfcGroup": false
+    },
+    "createdAt": 1790592577663,
+    "updatedAt": 1790592577663
+  },
+  "c24dbbfd85614704": {
+    "token": "c24dbbfd85614704",
+    "code": "5YWSP6",
+    "status": "verified",
+    "channelsJoined": {
+      "@TheFelixModz": true,
+      "@autolikegc": true,
+      "@FelixOfcGroup": true
+    },
+    "createdAt": 1790592580700,
+    "updatedAt": 1790592591248,
+    "user": {
+      "id": "1790592591248",
+      "first_name": "Telegram User",
+      "last_name": "",
+      "name": "Telegram User",
+      "username": "",
+      "photo_url": "/api/telegram/verified-avatar?user_id=1790592591248",
+      "verified": true,
+      "verifiedAt": 1790592591248,
+      "joinedChannels": [
+        "@TheFelixModz",
+        "@autolikegc",
+        "@FelixOfcGroup"
+      ]
+    }
+  },
+  "15aa77b24a604f63": {
+    "token": "15aa77b24a604f63",
+    "code": "QSSSXM",
+    "status": "pending",
+    "channelsJoined": {
+      "@TheFelixModz": false,
+      "@autolikegc": false,
+      "@FelixOfcGroup": false
+    },
+    "createdAt": 1790592609046,
+    "updatedAt": 1790592609046
+  },
+  "9d7c6fc4e713446c": {
+    "token": "9d7c6fc4e713446c",
+    "code": "SVZ9GD",
+    "status": "pending",
+    "channelsJoined": {
+      "@TheFelixModz": false,
+      "@autolikegc": false,
+      "@FelixOfcGroup": false
+    },
+    "createdAt": 1790592918556,
+    "updatedAt": 1790592918556
+  },
+  "05255101bd9f4de5": {
+    "token": "05255101bd9f4de5",
+    "code": "ZRZAEJ",
+    "status": "pending",
+    "channelsJoined": {
+      "@TheFelixModz": false,
+      "@autolikegc": false,
+      "@FelixOfcGroup": false
+    },
+    "createdAt": 1790592920666,
+    "updatedAt": 1790592920666
+  },
+  "10a4377ce5de4b25": {
+    "token": "10a4377ce5de4b25",
+    "code": "NSNN4E",
+    "status": "verified",
+    "channelsJoined": {
+      "@TheFelixModz": true,
+      "@autolikegc": true,
+      "@FelixOfcGroup": true
+    },
+    "createdAt": 1790592940398,
+    "updatedAt": 1790593197290,
+    "user": {
+      "id": "1790593197290",
+      "first_name": "Telegram User",
+      "last_name": "",
+      "name": "Telegram User",
+      "username": "",
+      "photo_url": "/api/telegram/verified-avatar?user_id=1790593197290",
+      "verified": true,
+      "verifiedAt": 1790593197290,
+      "joinedChannels": [
+        "@TheFelixModz",
+        "@autolikegc",
+        "@FelixOfcGroup"
+      ]
+    }
+  },
+  "cf9571de45c24517": {
+    "token": "cf9571de45c24517",
+    "code": "C5QWRA",
+    "status": "verified",
+    "channelsJoined": {
+      "@TheFelixModz": true,
+      "@autolikegc": true,
+      "@FelixOfcGroup": true
+    },
+    "createdAt": 1790593215279,
+    "updatedAt": 1790593277024,
+    "user": {
+      "id": "7564180164",
+      "first_name": "Telegram User",
+      "last_name": "",
+      "name": "Telegram User",
+      "username": "@7564180164",
+      "photo_url": "/api/telegram/verified-avatar?user_id=7564180164",
+      "verified": true,
+      "verifiedAt": 1790593277024,
+      "joinedChannels": [
+        "@TheFelixModz",
+        "@autolikegc",
+        "@FelixOfcGroup"
+      ]
+    }
+  },
+  "0cb1fd9294274843": {
+    "token": "0cb1fd9294274843",
+    "code": "YKH6AX",
+    "status": "pending",
+    "channelsJoined": {
+      "@TheFelixModz": false,
+      "@autolikegc": false,
+      "@FelixOfcGroup": false
+    },
+    "createdAt": 1790593300373,
+    "updatedAt": 1790593300373
+  },
+  "4e4008df2bc54ff0": {
+    "token": "4e4008df2bc54ff0",
+    "code": "H8ZS2U",
+    "status": "pending",
+    "channelsJoined": {
+      "@TheFelixModz": false,
+      "@autolikegc": false,
+      "@FelixOfcGroup": false
+    },
+    "createdAt": 1790593336746,
+    "updatedAt": 1790593336746
+  }
+}
